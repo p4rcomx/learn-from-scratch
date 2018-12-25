@@ -1,1 +1,3 @@
-# learn-from-scrathc
+# learn-from-scratch
+
+just notes for self
